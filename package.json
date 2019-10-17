@@ -1,0 +1,31 @@
+{
+  "name": "craw",
+  "version": "1.0.0",
+  "description": "web crawler practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "test command"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hiitsherby/webcraw.git"
+  },
+  "keywords": [
+    "webcraw"
+  ],
+  "author": "wwy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hiitsherby/webcraw/issues"
+  },
+  "homepage": "https://github.com/hiitsherby/webcraw#readme",
+  "dependencies": {
+    "async": "^2.0.0-rc.6",
+    "cheerio": "^0.20.0",
+    "crawler": "^1.0.5",
+    "eventproxy": "^0.3.4",
+    "express": "^4.9.5",
+    "firebase": "^4.3.1",
+    "superagent": "^2.0.0"
+  }
+}
